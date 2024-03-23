@@ -1,0 +1,4 @@
+.single-donate img {
+    height: 300px; /* Masalan, 300px bo'yligiga sozlash */
+    object-fit: cover; /* Rasm o'lchamiga mos ravishda joylashtirish */
+}
